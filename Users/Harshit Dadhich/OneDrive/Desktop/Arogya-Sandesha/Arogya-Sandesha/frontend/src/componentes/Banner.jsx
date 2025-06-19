@@ -23,5 +23,5 @@ const Banner = () => {
     </div>
   )
 }
-
+// export banner
 export default Banner
